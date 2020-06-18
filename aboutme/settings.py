@@ -26,7 +26,7 @@ if os.environ.get('ENV') == "PROD":
 else:
     SECRET_KEY = 'r5!f*3*e09=%1wr0kojy-c6guugu13qhz!x!tmhg%i#v&lx!)g'
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = False
+DEBUG = True
 
 ALLOWED_HOSTS = ['wkapp.tk', 'localhost', 'myapp94me.herokuapp.com']
 
