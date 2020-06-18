@@ -1,0 +1,27 @@
+asgiref==3.2.9
+autopep8 @ file:///tmp/build/80754af9/autopep8_1592412889138/work
+certifi==2020.4.5.2
+chardet==3.0.4
+coreapi==2.3.3
+coreschema==0.0.4
+Django==3.0.7
+django-cors-headers==3.4.0
+django-filter==2.3.0
+djangorestframework==3.11.0
+flake8==3.8.3
+idna==2.9
+itypes==1.2.0
+Jinja2==2.11.2
+MarkupSafe==1.1.1
+mccabe==0.6.1
+psycopg2==2.8.5
+pycodestyle==2.6.0
+pyflakes==2.2.0
+pytz==2020.1
+requests==2.24.0
+six==1.14.0
+sqlparse==0.3.1
+toml==0.10.0
+uritemplate==3.0.1
+urllib3==1.25.9
+wincertstore==0.2
