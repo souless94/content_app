@@ -149,9 +149,6 @@ USE_TZ = True
 
 STATIC_URL = '/static/'
 # location where django collect all static files
-
 STATIC_ROOT = os.path.join(BASE_DIR, 'static')
-# location where you will store your static files
-STATICFILES_DIRS = [os.path.join(BASE_DIR, 'static')]
 
 STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
